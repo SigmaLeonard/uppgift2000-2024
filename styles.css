@@ -49,15 +49,15 @@ li a:hover {
 /* Target the image on the left */
 .image-left {
   position: absolute;
-  left: 0;
-  top: 20%; /* Adjust this value if needed to position the image vertically */
+  left: 20;
+  top: 30%; /* Adjust this value if needed to position the image vertically */
 }
 
 /* Target the image on the right */
 .image-right {
   position: absolute;
-  right: 0;
-  top: 20%; /* Adjust this value if needed to position the image vertically */
+  right: 20;
+  top: 30%; /* Adjust this value if needed to position the image vertically */
 }
 
 .image2-right{
@@ -74,5 +74,137 @@ li a:hover {
 .image3-right{
   position: absolute;
   right: 100;
-  top: 45%;
+  top: 47%;
+}
+
+.image3-left{
+  position: absolute;
+  left: 100;
+  top: 47%;
+}
+
+.image4-right{
+  position: absolute;
+  right: 100;
+  top: 60%;
+}
+
+.image4-left{
+  position: absolute;
+  left: 100;
+  top: 60%;
+}
+
+.image4-mid{
+  position: absolute;
+  left: 440;
+  top: 62%;
+}
+
+.image5-left {
+  position: absolute;
+  left: 70px; /* Fixed left position */
+  top: 47%;   /* Vertically centered */
+}
+
+.image5-right {
+  position: absolute;
+  right: 70px; /* Fixed right position */
+  top: 47%;    /* Vertically centered */
+}
+
+.image5-mid {
+  position: absolute;
+  left: 475px; /* Positioned to be between the left and right images */
+  top: 47%;    /* Adjust vertical position as needed */
+}
+
+.image6-left {
+  position: absolute;
+  left: 70px; /* Fixed left position */
+  top: 50%;   /* Vertically centered */
+}
+
+.image6-right {
+  position: absolute;
+  right: 70px; /* Fixed right position */
+  top: 50%;    /* Vertically centered */
+}
+
+.image6-mid {
+  position: absolute;
+  left: 475px; /* Positioned to be between the left and right images */
+  top: 50%;    /* Adjust vertical position as needed */
+}
+
+.image7-left {
+  position: absolute;
+  left: 70px; /* Fixed left position */
+  top: 55%;   /* Vertically centered */
+}
+
+.image7-right {
+  position: absolute;
+  right: 70px; /* Fixed right position */
+  top: 55%;    /* Vertically centered */
+}
+
+.image7-mid {
+  position: absolute;
+  left: 475px; /* Positioned to be between the left and right images */
+  top: 55%;    /* Adjust vertical position as needed */
+}
+
+.image8-left {
+  position: absolute;
+  left: 70px; /* Fixed left position */
+  top: 55%;   /* Vertically centered */
+}
+
+.image8-right {
+  position: absolute;
+  right: 70px; /* Fixed right position */
+  top: 55%;    /* Vertically centered */
+}
+
+.image8-mid {
+  position: absolute;
+  left: 475px; /* Positioned to be between the left and right images */
+  top: 55%;    /* Adjust vertical position as needed */
+}
+
+.image9-left {
+  position: absolute;
+  left: 70px; /* Fixed left position */
+  top: 55%;   /* Vertically centered */
+}
+
+.image9-right {
+  position: absolute;
+  right: 70px; /* Fixed right position */
+  top: 55%;    /* Vertically centered */
+}
+
+.image9-mid {
+  position: absolute;
+  left: 475px; /* Positioned to be between the left and right images */
+  top: 55%;    /* Adjust vertical position as needed */
+}
+
+.image10-left {
+  position: absolute;
+  left: 70px; /* Fixed left position */
+  top: 55%;   /* Vertically centered */
+}
+
+.image10-right {
+  position: absolute;
+  right: 70px; /* Fixed right position */
+  top: 55%;    /* Vertically centered */
+}
+
+.image10-mid {
+  position: absolute;
+  left: 475px; /* Positioned to be between the left and right images */
+  top: 55%;    /* Adjust vertical position as needed */
 }
