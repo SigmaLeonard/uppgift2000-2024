@@ -46,8 +46,28 @@ li a:hover {
   background-color:rgb(78, 225, 245);
 }
 
-img {
+/* Target the image on the left */
+.image-left {
   position: absolute;
   left: 0;
   top: 20%; /* Adjust this value if needed to position the image vertically */
+}
+
+/* Target the image on the right */
+.image-right {
+  position: absolute;
+  right: 0;
+  top: 20%; /* Adjust this value if needed to position the image vertically */
+}
+
+.image2-right{
+  position: absolute;
+  right: 100;
+  top: 45%; /* Adjust this value if needed to position the image vertically */
+}
+
+.image2-left{
+  position: absolute;
+  left: 100;
+  top: 45%;
 }
