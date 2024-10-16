@@ -122,19 +122,19 @@ li a:hover {
 .image6-left {
   position: absolute;
   left: 70px; /* Fixed left position */
-  top: 50%;   /* Vertically centered */
+  top: 68%;   /* Vertically centered */
 }
 
 .image6-right {
   position: absolute;
   right: 70px; /* Fixed right position */
-  top: 50%;    /* Vertically centered */
+  top: 68%;    /* Vertically centered */
 }
 
 .image6-mid {
   position: absolute;
   left: 475px; /* Positioned to be between the left and right images */
-  top: 50%;    /* Adjust vertical position as needed */
+  top: 68%;    /* Adjust vertical position as needed */
 }
 
 .image7-left {
